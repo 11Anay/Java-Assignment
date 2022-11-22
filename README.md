@@ -1,5 +1,21 @@
 # Java-Assignment-B-14
 
+Java Assesment 
+
+## About me
+### Anay Soundankar 
+### Roll No - 14
+### PRN - 1132220197
+
+## How to Run 
+
+How to run In Command Prompt 
+
+  javac FileName.java
+  java FileName
+
+## ScreenShots
+
 Q2
 
 ![Assignment_OP](https://user-images.githubusercontent.com/114717200/203208765-9da6687b-99cc-46a7-86b8-b958ec6e6193.JPG)
